@@ -1,5 +1,4 @@
-
-        body {
+body {
             margin: 0;
             min-height: 100vh;
             background: #f0f0f0;
@@ -89,7 +88,7 @@
             .band-photo-frame { margin-top: 20px; }
         }
 
-          .about-us{
+        .about-us{
             margin-top: 40px;
             width: 30%;
             height: min-content;
@@ -131,3 +130,4 @@
             height: 200px;
             overflow-y: auto;
         }
+
