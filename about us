@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>About Us - THE APARTEMENT</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+         <div class="top-portrait-frame">
+        <div class="portrait">
+            <img src="apartPNG.PNG" alt="Portrait Photo" style="width:100%;height:100%;object-fit:cover;border-radius:10px;" />
+            <div class="background-frame">
+        <div class="background-frame-inner" style="background: #fff url('background.jpg') center center/cover no-repeat;"></div>
+        <img src="backgruod.PNG" alt="Band Photo" style="width:100%;height:100%;object-fit:cover;border-radius:8px;" />
+        </div>
+    </div>
+    <div class="about-us"><b>about us</b></div>
+    <div class="about-description" style="max-width:600px;margin:24px auto 0 auto;text-align:center;font-size:1.15em;color:#fffefe;line-height:1.6;">
+        <b>
+       the apartement is a band from indonesia consisting of Vidi (vocal and bass) Risyad (guitarist)
+Haikal (guitarist) and Qyarr (drummer) the band was built in 2023, initially the band was only made for a joke, but Risyad was interested in making a real band, initially the name of the band was “ater de cupp” but Qyarr did not agree with the name because the name looked less interesting which in the end the band was named The apartement, the first time the band performed at school alone, and day by day the band often grew, in the year 2023 the end of the band immediately made a song project called I feel hurt, the idea was the guitarist Risyad, he really wanted the apartement band to be a band that was recognized by people, This recording process is not short, there are so many obstacles that we have passed, such as money problems, permission from parents, time is very tight so that the process of making this song is very long, which in the end in the middle of 2025 this song was finished and ready to be realized, which in the end the song i feel hurt was realized in the market which made the name of the band the apartement become crowded anywhere
+        </b>
+
+        <div class="nav">
+        <a href="index.html">back</a>
+        </div>
+    </div>
+    
+    </body>
+</html>
